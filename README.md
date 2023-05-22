@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush Singh</h1>
 <h3 align="center">A passionate programmmer from India</h3>
-<img align="right" alt="coading" width=400 src="https://github.com/Aayush-MMIII/Aayush-MMIII/assets/133792863/ef7f5b46-9069-438b-a95d-5fa1160fe479)
-">
+<img align="right" alt="coading" width=400 src="https://github.com/Aayush-MMIII/Aayush-MMIII/assets/133792863/ef7f5b46-9069-438b-a95d-5fa1160fe479.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-mmiii&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-mmiii" /> </p>
 
 - 🌱 I’m currently learning **Data Structures with Core Java**
