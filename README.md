@@ -1,7 +1,7 @@
+![logo](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hi 👋, I'm Aayush Singh</h1>
 <h3 align="center">A passionate programmmer from India</h3>
-<img align="right" alt="coading" width=400 src="![image](https://github.com/Aayush-MMIII/Aayush-MMIII/assets/133792863/838e9219-fdbe-401c-9ead-0850ada14f86)
-">
+<img align="right" alt="coading" width=400 src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-mmiii&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-mmiii" /> </p>
 
 - 🌱 I’m currently learning **Data Structures with Core Java**
