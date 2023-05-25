@@ -1,4 +1,4 @@
-![logo](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+<img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" align="center">
 <h1 align="center">Hi 👋, I'm Aayush Singh</h1>
 <h3 align="center">A passionate programmmer from India</h3>
 <img align="right" alt="coading" width=400 src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
@@ -26,8 +26,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-mmiii&show_icons=true&locale=en&layout=compact" alt="aayush-mmiii" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aayush-mmiii&theme=radical&border_radius=10" alt="aayush-mmiii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-mmiii&show_icons=true&locale=en" alt="aayush-mmiii" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-mmiii&layout=donut&theme=radical&border_radius=10" alt="aayush-mmiii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-mmiii&" alt="aayush-mmiii" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-mmiii&theme=radical&border_radius=10" alt="aayush-mmiii" /></p>
