@@ -1,16 +1,16 @@
 <img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" align="center">
 <h1 align="center">Hi 👋, I'm Aayush Singh</h1>
-<h3 align="center">A passionate programmmer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coading" width=400 src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-mmiii&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-mmiii" /> </p>
 
-- 🌱 I’m currently learning **Data Structures with Core Java**
+- 🌱 I’m currently learning **Data Analytics **
 
 - 💬 Ask me about **Coding, Development and Programming**
 
 - 📫 How to reach me **as8508682@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lDwuk_unuvamqGCI-iyrANsfhSp4JFGL/view?usp=sharing](https://drive.google.com/file/d/1lDwuk_unuvamqGCI-iyrANsfhSp4JFGL/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lDwuk_unuvamqGCI-iyrANsfhSp4JFGL/view?usp=sharing](https://drive.google.com/file/d/1knzpOzOSlNRVWEO_ujx4V2h12GzgLfq3/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny😁**
 
